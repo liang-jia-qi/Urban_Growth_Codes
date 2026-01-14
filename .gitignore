@@ -1,0 +1,27 @@
+# ==== 忽略大文件夹 ====
+OLD VERSION/
+aggregated_data/
+pixel_data/
+pisel_data_confidence/
+images/
+
+# ==== 忽略自动生成或缓存 ====
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+# ==== 忽略系统或环境文件 ====
+.env/
+venv/
+.DS_Store
+
+# ==== 保留 data samples（样本数据） ====
+!data samples/
+
+# ==== 保留 notebooks（代码） ====
+!notebooks/
+
+# ==== 保留关键参数CSV ====
+!*.csv
