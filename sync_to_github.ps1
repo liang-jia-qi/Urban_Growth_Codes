@@ -1,5 +1,5 @@
 # Auto-sync Urban_Growth_Codes to GitHub
-$repoPath = "C:\Users\Jiaqi Liang\Documents\Research\Urban_Growth_Codes"
+$repoPath = "C:\Research_Local\Urban_Growth\Python_codes"
 Set-Location $repoPath
 
 $status = git status --porcelain
