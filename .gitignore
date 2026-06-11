@@ -1,5 +1,6 @@
 # ==== 忽略大文件夹 ====
 OLD VERSION/
+1 OLD VERSION/
 aggregated_data/
 pixel_data/
 pisel_data_confidence/
